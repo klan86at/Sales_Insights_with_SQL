@@ -1,2 +1,2 @@
-# Sale_Insights_SQL
+# Sales_Insights_SQL
 This project interrogates customer transactions with sales trends and business performance through SQL query analysis. 
