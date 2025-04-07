@@ -36,6 +36,11 @@ Below are the key objectives;
 
   <img width="248" alt="image" src="https://github.com/user-attachments/assets/96f99c0e-ec1e-41ff-a34c-02c9516726df" />
 
+- Average transaction amount per category.This metric enables companies to identify the product categories resulting in maximum revenue generation. From this analysis, Furniture category had the highest average amount transactions followed by Electronics then Home Appliances then Accessories and finally Footwear.
 
-  
+  <img width="616" alt="image" src="https://github.com/user-attachments/assets/4d396423-7e18-48bd-8866-e84e64a32da1" />
+
+  <img width="252" alt="image" src="https://github.com/user-attachments/assets/aa031f09-b339-4f28-ab7f-2dd85d41ad0e" />
+
+
 
