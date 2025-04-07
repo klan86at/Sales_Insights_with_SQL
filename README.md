@@ -19,7 +19,8 @@ Below are the key objectives;
 # Key Findings(Query scenarios)
 - Locations/City with higher sales transaction counts. North Michael,South Vicki & Seanburgh had the highest transactions counts display business opportunities for new ventures.
   
-  <img width="363" alt="image" src="https://github.com/user-attachments/assets/fc060e2f-4c66-4b64-b064-cc619e37d978" />
+  <img width="406" alt="image" src="https://github.com/user-attachments/assets/b37c6437-07f2-42c8-bab4-202c3003cba0" />
+
 
   <img width="236" alt="image" src="https://github.com/user-attachments/assets/e898d279-d0ea-454f-942e-d2613eb910bd" />
 
