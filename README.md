@@ -30,7 +30,8 @@ Below are the key objectives;
 
  <img width="191" alt="image" src="https://github.com/user-attachments/assets/be11cb68-2466-425f-9d7b-4bc6d5040133" />
 
-- Payment method that has the highest sales. Payment Methods Analysis allows businesses to determine optimal payment methods by examining their customer purchasing behavior. From the analysis we found that PayPal was the most preffered method of payment then bank, creditcard,cash, and finally Debit card closed the top five respectively. 
+- Payment method that has the highest sales. Payment Methods Analysis allows businesses to determine optimal payment methods by examining their customer purchasing behavior. From the analysis we found that PayPal was the most preffered method of payment then bank, creditcard,cash, and finally Debit card closed the top five respectively.
+  
   <img width="439" alt="image" src="https://github.com/user-attachments/assets/a193aed2-cfe3-4045-a32c-e3570d2a9bd0" />
 
   <img width="248" alt="image" src="https://github.com/user-attachments/assets/96f99c0e-ec1e-41ff-a34c-02c9516726df" />
