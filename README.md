@@ -48,6 +48,11 @@ Below are the key objectives;
 
   <img width="263" alt="image" src="https://github.com/user-attachments/assets/426abc8b-759c-457e-8713-6034d4bced00" />
 
+- Customers with at Least 4 Transactions – Identifies loyal and repeat customers. From analysis, there was no customer who had made more than 5 transactions.
+
+  <img width="641" alt="image" src="https://github.com/user-attachments/assets/c35dfbcf-9792-4991-852f-17cd6868e265" />
+
+  <img width="290" alt="image" src="https://github.com/user-attachments/assets/98213ae5-ceb5-4b66-b7a4-0d391e7492e4" />
 
 
 
