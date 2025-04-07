@@ -17,7 +17,7 @@ Below are the key objectives;
 - Query Language; The DBMS uses SQL (Structured Query Language) for retrieving and processing data through aggregation operations while filtering and performing analytical calculations.
 - Debeaver utilized it for query execution and database administration.
 # Key Findings(Query scenarios)
-- Locations/City with higher sales transaction counts. North Michael,South Vicki had the highest transactions counts display business opportunities for new ventures compared to Locations such as South Amy,Lake Elaineburgh among others which shows least transaction counts.
+- Locations/City with higher sales transaction counts. North Michael,South Vicki & Seanburgh had the highest transactions counts display business opportunities for new ventures.
   
   <img width="363" alt="image" src="https://github.com/user-attachments/assets/fc060e2f-4c66-4b64-b064-cc619e37d978" />
 
