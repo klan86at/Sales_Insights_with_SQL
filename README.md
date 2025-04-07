@@ -42,5 +42,13 @@ Below are the key objectives;
 
   <img width="252" alt="image" src="https://github.com/user-attachments/assets/aa031f09-b339-4f28-ab7f-2dd85d41ad0e" />
 
+- The Last 6 Months of Customer Registration without Transactions. Serves as tool for marketing campaign planning towards new customers. From the analysis, no customer has been registered in the last 6 months. This shows that there's customer churn risk.
+  <img width="509" alt="image" src="https://github.com/user-attachments/assets/3e1229cf-f8aa-444d-ae7e-47094c5834ef" />
+
+  <img width="263" alt="image" src="https://github.com/user-attachments/assets/426abc8b-759c-457e-8713-6034d4bced00" />
+
+
+
+
 
 
