@@ -16,3 +16,6 @@ Below are the key objectives;
 - Aiven(free version); to create a PostgreSQL to Act as the database management system to process customer and sales information with high efficiency.
 - Query Language; The DBMS uses SQL (Structured Query Language) for retrieving and processing data through aggregation operations while filtering and performing analytical calculations.
 - Debeaver utilized it for query execution and database administration.
+# Key Findings(Query scenarios)
+- Locations/City with higher sales transaction counts. North Michael,South Vicki had the highest transactions counts display business opportunities for new ventures compared to Locations such as South Amy,Lake Elaineburgh among others which shows least transaction counts.
+  
