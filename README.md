@@ -80,13 +80,13 @@ Below are the key objectives;
 
   <img width="428" alt="image" src="https://github.com/user-attachments/assets/bd5b26bd-37f4-4655-9305-d0064f5ef527" />
 
-- Determine the percentage of total revenue contributed by each product category. Assessing revenue production through various categories permits more effective resource and budget distribution for marketing purposes. From the analysis Electronics Category had the highest revenue contribution of 333646.00 followed by Furniture with 272569.00, then Home Appliances with 267101.00, then Accessories with 19851.00 abd finally Footwear category with 18571.00.
+- Determine the percentage of total revenue contributed by each product category. Assessing revenue production through various categories permits more effective resource and budget distribution for marketing purposes. From the analysis Electronics Category had the highest revenue contribution of 333646.00 followed by Furniture, Home Appliances, Accessories and finally Footwear category in that order.
 
   <img width="852" alt="image" src="https://github.com/user-attachments/assets/73a23a39-84b1-435b-9309-067817ef77df" />
 
   <img width="337" alt="image" src="https://github.com/user-attachments/assets/6013f0b0-754e-42ce-aed7-0e02e72ef91b" />
 
-- Find the first purchase date for each customer(a snap shotof the first 15). Helps in customer lifecycle and retention strategies.
+- Find the first purchase date for each customer(a snap shot of the first 15). Helps in customer lifecycle and retention strategies.
 
   <img width="590" alt="image" src="https://github.com/user-attachments/assets/40f71d81-9079-475b-a62b-76b536192d90" />
 
