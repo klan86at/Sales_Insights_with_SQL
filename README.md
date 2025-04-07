@@ -24,6 +24,13 @@ Below are the key objectives;
 
   <img width="236" alt="image" src="https://github.com/user-attachments/assets/e898d279-d0ea-454f-942e-d2613eb910bd" />
 
+- The list of top five most purchased products. Allows businesses to understand which products customers prefer and which ones generate increased demand. In this case; Microwave,Fridge,Smartphone,Sneakers,Fridge are the top 5 most purchased products.
+- 
+ <img width="356" alt="image" src="https://github.com/user-attachments/assets/e538bbea-cd8f-423c-9768-c816e02a37c6" />
+
+ <img width="191" alt="image" src="https://github.com/user-attachments/assets/be11cb68-2466-425f-9d7b-4bc6d5040133" />
+
+
 
   
 
