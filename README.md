@@ -20,5 +20,8 @@ Below are the key objectives;
 - Locations/City with higher sales transaction counts. North Michael,South Vicki had the highest transactions counts display business opportunities for new ventures compared to Locations such as South Amy,Lake Elaineburgh among others which shows least transaction counts.
   
   <img width="363" alt="image" src="https://github.com/user-attachments/assets/fc060e2f-4c66-4b64-b064-cc619e37d978" />
+
+  <img width="234" alt="image" src="https://github.com/user-attachments/assets/caeca2f7-1328-4850-9411-80463e24c86d" />
+
   
 
