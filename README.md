@@ -54,6 +54,72 @@ Below are the key objectives;
 
   <img width="290" alt="image" src="https://github.com/user-attachments/assets/98213ae5-ceb5-4b66-b7a4-0d391e7492e4" />
 
+- Yearly Revenue Trends – Evaluates business growth and sales performance over time. From the analysis, 2023 had the most sales followed by 2024, 2022, then 2025.
+
+  <img width="746" alt="image" src="https://github.com/user-attachments/assets/c3ad1867-9315-4138-a831-bec256cf2dc8" />
+
+  <img width="229" alt="image" src="https://github.com/user-attachments/assets/07c1646d-a86c-4c20-92d4-56423c571ed3" />
+
+- Customers who have made purchases across at least 3 different product categories. The analysis system detects customers who buy items within different categories through this feature for delivering personalized recommendations.
+
+
+  <img width="661" alt="image" src="https://github.com/user-attachments/assets/15c6c718-faa1-40f4-b230-6238ef9f5afe" />
+
+  <img width="233" alt="image" src="https://github.com/user-attachments/assets/a6f35da0-e12a-4720-a9a6-7663fd973df6" />
+
+- Number of unique products sold in each category.A business can measure inventory variety through counting unique product sales per product category. From the analysis, we had 10 unique products sold in each category namely:Headphones,Tablet,Bed,Sofa,Washing Machine,Smartphone,Microwave,Fridge,Laptop,Sneakers.
+
+ <img width="431" alt="image" src="https://github.com/user-attachments/assets/302dc125-508d-4121-b814-955178ede5b7" />
+
+ <img width="223" alt="image" src="https://github.com/user-attachments/assets/aa49412b-3a95-4be6-90eb-48313c03165a" />
+
+# Advanced analysis
+- The list of Top 5 Customers by Spending in the Last 12 Months assists in developing retention programs for valuable clients. From the analyis we had customers of id 1283 with the total spending of 15,811 , customer of id 1405 with the total spending of 15,191 and customer of id 1788 with the total spending of 13,828 as the top 3 customers respectively.
+
+  <img width="545" alt="image" src="https://github.com/user-attachments/assets/cea64bf5-0144-494e-b7ef-2162e8e088e8" />
+
+  <img width="428" alt="image" src="https://github.com/user-attachments/assets/bd5b26bd-37f4-4655-9305-d0064f5ef527" />
+
+- Determine the percentage of total revenue contributed by each product category. Assessing revenue production through various categories permits more effective resource and budget distribution for marketing purposes. From the analysis Electronics Category had the highest revenue contribution of 333646.00 followed by Furniture with 272569.00, then Home Appliances with 267101.00, then Accessories with 19851.00 abd finally Footwear category with 18571.00.
+
+  <img width="852" alt="image" src="https://github.com/user-attachments/assets/73a23a39-84b1-435b-9309-067817ef77df" />
+
+  <img width="337" alt="image" src="https://github.com/user-attachments/assets/6013f0b0-754e-42ce-aed7-0e02e72ef91b" />
+
+- Find the first purchase date for each customer(a snap shotof the first 15). Helps in customer lifecycle and retention strategies.
+
+  <img width="590" alt="image" src="https://github.com/user-attachments/assets/40f71d81-9079-475b-a62b-76b536192d90" />
+
+  <img width="293" alt="image" src="https://github.com/user-attachments/assets/6f9dc2be-fad8-4314-b5c3-95fdfde566f6" />
+
+- Identify customers who have increased their spending by at least 50% compared to the previous year. Customers with Increased Spending by 50% – Identifies potential VIP customers.
+
+  <img width="572" alt="image" src="https://github.com/user-attachments/assets/aea2a87a-c4f1-43b0-811c-dfbe14cf41e7" />
+
+  <img width="431" alt="image" src="https://github.com/user-attachments/assets/5ec482c7-85a8-456c-9195-deacf6f95af8" />
+
+- Find the month-over-month sales growth for the last 12 months. Month-over-Month Sales Growth – Analyzes business growth patterns.
+
+  <img width="761" alt="image" src="https://github.com/user-attachments/assets/7c8ac8f8-5acc-4500-b8d9-74870b27b6c5" />
+
+  <img width="421" alt="image" src="https://github.com/user-attachments/assets/57ab8f59-9f84-4b6c-a7a4-0a148f7a52c1" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
