@@ -12,3 +12,7 @@ Below are the key objectives;
 # Dataset provided
 - Sales transaction table; This table contains product name alongside category information and quantity details and total amount information and transaction date records.
 - Customer information table; It contains information about the customers.
+# Tools Utilized
+- Aiven(free version); to create a PostgreSQL to Act as the database management system to process customer and sales information with high efficiency.
+- Query Language; The DBMS uses SQL (Structured Query Language) for retrieving and processing data through aggregation operations while filtering and performing analytical calculations.
+- Debeaver utilized it for query execution and database administration.
